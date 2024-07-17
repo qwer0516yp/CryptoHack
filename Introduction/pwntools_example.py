@@ -22,7 +22,7 @@ print(r.readline())
 print(r.readline())
 
 request = {
-    "buy": "clothes"
+    "buy": "flag"
 }
 json_send(request)
 
